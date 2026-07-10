@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none">
+  <!-- Subtle seamless geometric pastel pattern -->
+  <circle cx="20" cy="20" r="6" fill="#E8C0FC" opacity="0.12"/>
+  <circle cx="80" cy="50" r="8" fill="#FCF5BF" opacity="0.18"/>
+  <circle cx="40" cy="90" r="5" fill="#A8DEFA" opacity="0.10"/>
+  <rect x="90" y="90" width="12" height="12" rx="4" fill="#E8C0FC" opacity="0.10" transform="rotate(15 96 96)"/>
+  <rect x="55" y="12" width="10" height="10" rx="3" fill="#D0F4E0" opacity="0.14" transform="rotate(-12 60 17)"/>
+  <path d="M105 25 l2 4 4 2 -4 2 -2 4 -2 -4 -4 -2 4 -2 Z" fill="#FF99C8" opacity="0.10"/>
+  <path d="M15 60 l2 4 4 2 -4 2 -2 4 -2 -4 -4 -2 4 -2 Z" fill="#E8C0FC" opacity="0.10"/>
+  <circle cx="110" cy="70" r="4" fill="#D0F4E0" opacity="0.12"/>
+  <circle cx="65" cy="110" r="6" fill="#FCF5BF" opacity="0.12"/>
+</svg>

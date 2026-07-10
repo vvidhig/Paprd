@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="220" viewBox="0 0 280 220" fill="none">
+  <!-- Cute minimal pastel empty bookshelf -->
+  <ellipse cx="140" cy="200" rx="100" ry="12" fill="#E8C0FC" opacity="0.2"/>
+  <!-- Shelf frame -->
+  <rect x="60" y="30" width="160" height="160" rx="16" fill="#FFFFFF" stroke="#E8C0FC" stroke-width="3"/>
+  <!-- Shelves -->
+  <rect x="70" y="82" width="140" height="6" rx="3" fill="#E8C0FC" opacity="0.5"/>
+  <rect x="70" y="136" width="140" height="6" rx="3" fill="#E8C0FC" opacity="0.5"/>
+  <!-- One lonely book leaning -->
+  <rect x="86" y="46" width="14" height="36" rx="3" fill="#D0F4E0" transform="rotate(8 93 64)"/>
+  <!-- Dust sparkle -->
+  <circle cx="150" cy="60" r="3" fill="#A8DEFA" opacity="0.7"/>
+  <circle cx="180" cy="110" r="2.5" fill="#FF99C8" opacity="0.6"/>
+  <circle cx="120" cy="160" r="3" fill="#FCF5BF"/>
+  <!-- Cute face on shelf -->
+  <circle cx="128" cy="164" r="0" fill="none"/>
+  <g opacity="0.85">
+    <circle cx="130" cy="112" r="2.5" fill="#2D2640"/>
+    <circle cx="152" cy="112" r="2.5" fill="#2D2640"/>
+    <path d="M136 120 q5 4 10 0" stroke="#2D2640" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <circle cx="122" cy="118" r="3" fill="#FF99C8" opacity="0.5"/>
+    <circle cx="160" cy="118" r="3" fill="#FF99C8" opacity="0.5"/>
+  </g>
+  <!-- Floating plus hint -->
+  <circle cx="222" cy="52" r="14" fill="#FF99C8"/>
+  <path d="M222 46v12M216 52h12" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

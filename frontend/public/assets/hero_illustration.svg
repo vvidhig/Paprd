@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 420 300" fill="none">
+  <!-- Dreamy floating docs, books, flashcards -->
+  <defs>
+    <linearGradient id="heroGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E8C0FC" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A8DEFA" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="210" cy="160" rx="180" ry="110" fill="url(#heroGrad)"/>
+  <!-- Cloud puffs -->
+  <ellipse cx="110" cy="230" rx="60" ry="20" fill="#FFFFFF" opacity="0.8"/>
+  <ellipse cx="300" cy="240" rx="70" ry="22" fill="#FFFFFF" opacity="0.7"/>
+  <!-- Big document -->
+  <g transform="rotate(-6 180 140)">
+    <rect x="140" y="80" width="90" height="120" rx="12" fill="#FFFFFF" stroke="#E8C0FC" stroke-width="3"/>
+    <rect x="152" y="98" width="66" height="8" rx="4" fill="#E8C0FC"/>
+    <rect x="152" y="114" width="50" height="6" rx="3" fill="#A8DEFA" opacity="0.7"/>
+    <rect x="152" y="128" width="58" height="6" rx="3" fill="#A8DEFA" opacity="0.5"/>
+    <rect x="152" y="142" width="42" height="6" rx="3" fill="#A8DEFA" opacity="0.5"/>
+    <rect x="152" y="164" width="30" height="10" rx="5" fill="#FF99C8"/>
+  </g>
+  <!-- Flashcard cream -->
+  <g transform="rotate(10 300 120)">
+    <rect x="255" y="90" width="96" height="64" rx="12" fill="#FCF5BF" stroke="#E8C0FC" stroke-width="2.5"/>
+    <rect x="268" y="108" width="70" height="7" rx="3.5" fill="#2D2640" opacity="0.25"/>
+    <rect x="268" y="124" width="46" height="7" rx="3.5" fill="#2D2640" opacity="0.15"/>
+  </g>
+  <!-- Flashcard mint -->
+  <g transform="rotate(-12 110 110)">
+    <rect x="60" y="84" width="90" height="60" rx="12" fill="#D0F4E0" stroke="#A8DEFA" stroke-width="2.5"/>
+    <circle cx="80" cy="106" r="6" fill="#FFFFFF"/>
+    <rect x="94" y="102" width="42" height="7" rx="3.5" fill="#2D2640" opacity="0.2"/>
+    <rect x="74" y="120" width="56" height="7" rx="3.5" fill="#2D2640" opacity="0.12"/>
+  </g>
+  <!-- Small book -->
+  <g transform="rotate(8 320 200)">
+    <rect x="290" y="180" width="64" height="16" rx="5" fill="#FF99C8"/>
+    <rect x="294" y="164" width="56" height="16" rx="5" fill="#A8DEFA"/>
+  </g>
+  <!-- Sparkles + dots -->
+  <path d="M70 50 l3 6 6 3 -6 3 -3 6 -3 -6 -6 -3 6 -3 Z" fill="#FF99C8"/>
+  <path d="M350 46 l2.5 5 5 2.5 -5 2.5 -2.5 5 -2.5 -5 -5 -2.5 5 -2.5 Z" fill="#E8C0FC"/>
+  <circle cx="220" cy="40" r="4" fill="#A8DEFA"/>
+  <circle cx="390" cy="140" r="3.5" fill="#D0F4E0"/>
+  <circle cx="30" cy="150" r="3.5" fill="#FCF5BF"/>
+</svg>

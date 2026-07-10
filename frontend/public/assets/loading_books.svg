@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="160" viewBox="0 0 200 160" fill="none">
+  <!-- Stack of pastel books with one opening, pages flying out -->
+  <ellipse cx="100" cy="140" rx="70" ry="10" fill="#E8C0FC" opacity="0.25"/>
+  <!-- Bottom book: rose -->
+  <rect x="45" y="112" width="110" height="20" rx="6" fill="#FF99C8"/>
+  <rect x="45" y="112" width="12" height="20" rx="6" fill="#2D2640" opacity="0.12"/>
+  <!-- Middle book: sky blue -->
+  <rect x="52" y="92" width="98" height="20" rx="6" fill="#A8DEFA"/>
+  <rect x="52" y="92" width="12" height="20" rx="6" fill="#2D2640" opacity="0.12"/>
+  <!-- Third book: mint -->
+  <rect x="48" y="72" width="104" height="20" rx="6" fill="#D0F4E0"/>
+  <rect x="48" y="72" width="12" height="20" rx="6" fill="#2D2640" opacity="0.1"/>
+  <!-- Open book on top: cream -->
+  <path d="M100 52 C 82 42, 62 44, 56 50 L 56 66 C 62 60, 82 58, 100 68 Z" fill="#FCF5BF" stroke="#2D2640" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M100 52 C 118 42, 138 44, 144 50 L 144 66 C 138 60, 118 58, 100 68 Z" fill="#FCF5BF" stroke="#2D2640" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M100 52 L 100 68" stroke="#2D2640" stroke-width="1.5"/>
+  <!-- Flying pages -->
+  <g opacity="0.9">
+    <rect x="130" y="26" width="16" height="12" rx="2" fill="#FFFFFF" stroke="#E8C0FC" stroke-width="1.5" transform="rotate(15 138 32)"/>
+    <rect x="152" y="38" width="14" height="10" rx="2" fill="#FFFFFF" stroke="#A8DEFA" stroke-width="1.5" transform="rotate(-12 159 43)"/>
+    <rect x="42" y="30" width="15" height="11" rx="2" fill="#FFFFFF" stroke="#FF99C8" stroke-width="1.5" transform="rotate(-18 49 35)"/>
+  </g>
+  <!-- Sparkles -->
+  <path d="M75 18 l2.5 5 5 2.5 -5 2.5 -2.5 5 -2.5 -5 -5 -2.5 5 -2.5 Z" fill="#E8C0FC"/>
+  <circle cx="122" cy="14" r="3" fill="#A8DEFA"/>
+  <circle cx="165" cy="22" r="2.5" fill="#FF99C8"/>
+</svg>

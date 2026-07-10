@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none">
+  <!-- Friendly owl tutor with glasses -->
+  <circle cx="60" cy="60" r="58" fill="#E8C0FC" opacity="0.35"/>
+  <circle cx="60" cy="60" r="50" fill="#A8DEFA" opacity="0.3"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="72" rx="32" ry="34" fill="#E8C0FC"/>
+  <ellipse cx="60" cy="80" rx="20" ry="22" fill="#FCF5BF"/>
+  <!-- Wings -->
+  <ellipse cx="30" cy="74" rx="9" ry="18" fill="#A8DEFA" transform="rotate(12 30 74)"/>
+  <ellipse cx="90" cy="74" rx="9" ry="18" fill="#A8DEFA" transform="rotate(-12 90 74)"/>
+  <!-- Head tufts -->
+  <path d="M36 34 l6 12 -12 0 Z" fill="#E8C0FC"/>
+  <path d="M84 34 l6 12 -12 0 Z" fill="#E8C0FC"/>
+  <!-- Face -->
+  <circle cx="60" cy="48" r="26" fill="#E8C0FC"/>
+  <!-- Glasses -->
+  <circle cx="49" cy="48" r="11" fill="#FFFFFF" stroke="#2D2640" stroke-width="2.5"/>
+  <circle cx="71" cy="48" r="11" fill="#FFFFFF" stroke="#2D2640" stroke-width="2.5"/>
+  <path d="M60 48 h0" stroke="#2D2640" stroke-width="2.5"/>
+  <line x1="58" y1="48" x2="62" y2="48" stroke="#2D2640" stroke-width="2.5"/>
+  <!-- Eyes -->
+  <circle cx="49" cy="48" r="4" fill="#2D2640"/>
+  <circle cx="71" cy="48" r="4" fill="#2D2640"/>
+  <circle cx="50.5" cy="46.5" r="1.4" fill="#FFFFFF"/>
+  <circle cx="72.5" cy="46.5" r="1.4" fill="#FFFFFF"/>
+  <!-- Beak -->
+  <path d="M60 56 l-5 6 5 4 5 -4 Z" fill="#FF99C8"/>
+  <!-- Blush -->
+  <circle cx="38" cy="56" r="4" fill="#FF99C8" opacity="0.5"/>
+  <circle cx="82" cy="56" r="4" fill="#FF99C8" opacity="0.5"/>
+  <!-- Graduation cap -->
+  <path d="M60 14 L88 26 60 38 32 26 Z" fill="#2D2640"/>
+  <path d="M60 20 L74 26 60 32 46 26 Z" fill="#4A4160"/>
+  <line x1="84" y1="28" x2="84" y2="40" stroke="#2D2640" stroke-width="2"/>
+  <circle cx="84" cy="42" r="3" fill="#FCF5BF"/>
+</svg>

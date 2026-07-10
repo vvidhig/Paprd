@@ -1,0 +1,10 @@
+node_modules/
+dist/
+venv/
+__pycache__/
+*.pyc
+backend/storage/chromadb/
+backend/storage/uploads/
+backend/storage/documents.json
+.env.local
+backend/.env
